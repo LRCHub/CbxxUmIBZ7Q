@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヒメゴト",
+  "base_artist": "moon drop",
+  "createdAt": "2026-01-13T18:46:00.160832Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒメゴト",
+      "artist": "moon drop",
+      "has_synced": false,
+      "path": "select/pl_01_ヒメゴト_moon_drop.txt"
+    }
+  ]
+}
